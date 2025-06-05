@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denise Martins
-- 👀 I’m interested in connecting developers with international opportunities
+- 👀 I’m interested in connecting South African developers with international opportunities
 - 📫 How to reach me denise@kam-consulting.com
 
 
